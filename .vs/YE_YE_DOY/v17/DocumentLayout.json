@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Desktop\\YE_YE_DOY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF5986C-9F56-452E-B4F8-7DE2E2E8BF65}|..\\FastFood.Models\\FastFood.Models.csproj|c:\\users\\ahmet\\onedrive\\desktop\\fastfood.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF5986C-9F56-452E-B4F8-7DE2E2E8BF65}|..\\FastFood.Models\\FastFood.Models.csproj|c:\\users\\ahmet\\onedrive\\desktop\\fastfood.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF5986C-9F56-452E-B4F8-7DE2E2E8BF65}|..\\FastFood.Models\\FastFood.Models.csproj|c:\\users\\ahmet\\onedrive\\desktop\\fastfood.models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Desktop\\FastFood.Models\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\FastFood.Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Desktop\\FastFood.Models\\Cart.cs",
+              "RelativeToolTip": "..\\FastFood.Models\\Cart.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:50:55.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Desktop\\FastFood.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\FastFood.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Desktop\\FastFood.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\FastFood.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:45:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Desktop\\FastFood.Models\\Item.cs",
+              "RelativeDocumentMoniker": "..\\FastFood.Models\\Item.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Desktop\\FastFood.Models\\Item.cs",
+              "RelativeToolTip": "..\\FastFood.Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:38:12.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
